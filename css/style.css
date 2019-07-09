@@ -112,7 +112,7 @@ section,.section-padding {position: relative;padding: 7.5rem 0;overflow: hidden;
 .bg-blue {background-color: #00bcd4;}
 
 .gradient-bg1{
-    background: #3264f5;
+    background: #7CC627;
     background: -moz-linear-gradient(left, #3264f5 2%, #7202bb 82%);
     background: -webkit-linear-gradient(left, #3264f5 2%,#7202bb 82%);
     background: linear-gradient(to right, #3264f5 2%,#7202bb 82%);
